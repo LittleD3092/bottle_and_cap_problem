@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
 {
 	//input
 	int x;
-	scanf("%d", x);
+	scanf("%d", &x);
 
 	//change money to bottle and cap
 	int bottle = x;
